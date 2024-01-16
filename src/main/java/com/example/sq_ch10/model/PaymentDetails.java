@@ -2,13 +2,13 @@ package com.example.sq_ch10.model;
 
 public class PaymentDetails {
 
-    private double money;
+    private double amount;
 
-    public double getMoney() {
-        return money;
+    public double getAmount() {
+        return amount;
     }
 
-    public void setMoney(double money) {
-        this.money = money;
+    public void setAmount(double amount) {
+        this.amount = amount;
     }
 }
